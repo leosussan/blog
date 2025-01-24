@@ -1,0 +1,51 @@
+baseURL = 'https://leosussan.com/'
+languageCode = 'en-us'
+title = 'leosussan.com'
+theme = 'hugo-theme-m10c'
+
+[pagination]
+  pagerSize = 8
+
+[params]
+  author = "Leo Sussan"
+  description = "Co-Founder + CTO @reach.vote. Exploring technology, development, digital media, politics, organizing, and more"
+  menu_item_separator = " - "
+  [[params.social]]
+    icon = "brand-github"
+    name = "Github"
+    url = "https://github.com/leosussan"
+  [[params.social]]
+    icon = "brand-bluesky"
+    name = "Bluesky"
+    url = "https://bsky.app/profile/leosussan.com"
+  [[params.social]]
+    icon = "brand-linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/leo-sussan-81935416"
+  [[params.social]]
+    icon = "brand-x"
+    name = "Twitter"
+    url = "https://twitter.com/lsussan"
+  # Default theme
+  # [params.style]
+  #   darkestColor = "#242930"
+  #   darkColor = "#353b43"
+  #   lightColor = "#afbac4"
+  #   lightestColor = "#ffffff"
+  #   primaryColor = "#57cc8a"
+
+  # Green theme
+  # [params.style]
+  #   darkestColor = "#315659"
+  #   darkColor = "#253031"
+  #   lightColor = "#96a879"
+  #   lightestColor = "#fff"
+  #   primaryColor = "#dad865"
+
+  # Red theme
+  [params.style]
+    darkestColor = "#d35050"
+    darkColor = "#212121"
+    lightColor = "#d6d6d6"
+    lightestColor = "#d3d3d3"
+    primaryColor = "#ffffff"
