@@ -6,7 +6,7 @@ title = 'Placeholder for an actual thought'
 
 ## No Illusions
 
-There have been many moments where I've wanted to write something in longform about what I or our team has accomplished, technically or otherwise.
+There have been many moments where I've wanted to write something in longform about what I or my teams have accomplished, technically or otherwise.
 
 This space will be for those moments.
 
