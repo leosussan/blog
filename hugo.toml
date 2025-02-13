@@ -10,6 +10,24 @@ theme = ["github.com/vaga/hugo-theme-m10c"]
   [[module.imports]]
     path = "github.com/vaga/hugo-theme-m10c"
     disable = false
+  [[module.mounts]]
+    source = 'static'
+    target = 'static'
+  [[module.mounts]]
+    source = "uploads"
+    target = "static/uploads"
+
+[menu]
+  [[menu.main]]
+    identifier = "Home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
 
 [params]
   author = "Leo Sussan"
