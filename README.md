@@ -1,4 +1,4 @@
-# [leosussan.com](https//leosussan.com)
+# [leosussan.com](https://leosussan.com)
 
 Personal blog and website built with Hugo, using the m10c theme. This site is automatically deployed to GitHub Pages.
 
