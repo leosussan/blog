@@ -8,15 +8,17 @@ title = 'About'
 
 My Name is Leo!
 
-## What is your Quest?
+## What is your quest?
 
-Well, I have spent my career building & delivering results primarily in the realms of technology & digital advertising. I am currently focused on creating impactful solutions at the intersection of tech and progressive politics.
+I have been a technology enthusiast for as long as I can remember, having been introduced to computers while in diapers by my programmer father in the early 90s. My childhood was spent debugging & modding Dreamcast games, building online communities, starting little businesses, designing graphics, disssembling & reassembling stuff, etc. Normal computer kid stuff, I am told. 
 
-I currently serve as co-founder & CTO of **[Reach](https://reach.vote)**, a grassroots organizing platform that began its journey during the historic **[Alexandria Ocasio-Cortez for Congress](https://ocasiocortez.com)** campaign in 2018, where I served as Technology Director. What started as a solution for one groundbreaking campaign has evolved into a platform that has empowered [thousands](https://www.reach.vote/clients/) of Democratic campaigns and progressive organizations to revolutionize how they connect with supporters and mobilize volunteers.
+These days, I haven't been as excited by technology for its own sake, but rather by its power to engender real-world impact - whether that's in helping flip a congressional seat, accelerating client growth, or catalyzing meaningful change.
 
-My career spans both political technology and private sector innovation. Before diving into political tech, I directed digital strategy for a venture-backed startup and led digital initiatives for major brands including American Express, GoPro, and Reckitt-Benckiser. This blend of corporate and political technology experience has shaped my approach to building scalable, impactful solutions.
+Right now, I am the co-founder & CTO of **[Reach](https://reach.vote)**, a grassroots organizing platform born during the groundbreaking **[Alexandria Ocasio-Cortez for Congress](https://ocasiocortez.com)** campaign in 2018. During that groundbreaking race, I served as Technology Director, helping to architect the digital infrastructure and media production / distribution systems that helped secure our unprecedented victory.
 
-Whether it's developing technology to power progressive movements or driving digital transformation for Fortune 500 companies, my quest remains consistent: to create meaningful change through technology, always staying foolishly optimistic (much like my devotion to the Mets & Knicks).
+Since spinning off as an independent company, Reach has evolved into a powerful platform empowering [thousands](https://www.reach.vote/clients/) of Democratic campaigns and progressive organizations to transform how they engage supporters and mobilize volunteers. This mission continues to be my primary focus, as we constantly innovate and expand our platform's capabilities to meet the evolving needs of modern political organizing, and to further amplify its' impact.
+
+My expertise spans both political technology and private sector innovation. Before entering the campaign space, I spearheaded digital strategy for a venture-backed startup and led major initiatives at a premier agency, partnering with brands like American Express, GoPro, and Reckitt-Benckiser. I also maintain my connection to AOC's campaign, advising on technology, digital media, infosec and special projects.
 
 ## What is your favorite color?
 
