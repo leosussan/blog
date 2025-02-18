@@ -31,6 +31,7 @@ theme = ["github.com/vaga/hugo-theme-m10c"]
 
 [params]
   author = "Leo Sussan"
+  avatar = './uploads/images/me.jpg'
   description = "Co-Founder + CTO, @reach.vote. Tech & Special Projects, @ocasiocortez.com"
   menu_item_separator = " - "
   [[params.social]]
