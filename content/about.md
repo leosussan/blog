@@ -12,9 +12,9 @@ My Name is Leo!
 
 I have been a technology enthusiast for as long as I can remember, having been introduced to computers while in diapers by my programmer father in the early 90s. My childhood was spent debugging & modding Dreamcast games, building online communities, starting little businesses, designing graphics, disssembling & reassembling stuff, etc. Normal computer kid stuff, I am told. 
 
-These days, I haven't been as excited by technology for its own sake, but rather by its power to engender real-world impact - whether that's in helping flip a congressional seat, accelerating client growth, or catalyzing meaningful change.
+These days, I haven't been as excited by technology for its own sake, but rather by its power to engender real-world impact - whether that's in helping flip a congressional seat, accelerating client growth, or catalyzing other forms of meaningful change.
 
-Right now, I am the co-founder & CTO of **[Reach](https://reach.vote)**, a grassroots organizing platform born during the groundbreaking **[Alexandria Ocasio-Cortez for Congress](https://ocasiocortez.com)** campaign in 2018. During that groundbreaking race, I served as Technology Director, helping to architect the digital infrastructure and media production / distribution systems that helped secure our unprecedented victory.
+I am the co-founder & serve as CTO of **[Reach](https://reach.vote)**, a grassroots organizing platform born during the groundbreaking **[Alexandria Ocasio-Cortez for Congress](https://ocasiocortez.com)** campaign in 2018. During that groundbreaking race, I served as Technology Director, helping to architect the digital infrastructure and media production / distribution systems that helped secure our unprecedented victory.
 
 Since spinning off as an independent company, Reach has evolved into a powerful platform empowering [thousands](https://www.reach.vote/clients/) of Democratic campaigns and progressive organizations to transform how they engage supporters and mobilize volunteers. This mission continues to be my primary focus, as we constantly innovate and expand our platform's capabilities to meet the evolving needs of modern political organizing, and to further amplify its' impact.
 
